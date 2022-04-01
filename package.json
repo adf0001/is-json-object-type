@@ -1,0 +1,23 @@
+{
+  "name": "is-json-object-type",
+  "version": "0.1.1",
+  "description": "check if an object is directly like '{...}'",
+  "main": "is-json-object-type.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "json",
+    "object-type"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/is-json-object-type.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/is-json-object-type/issues"
+  },
+  "homepage": "https://github.com/adf0001/is-json-object-type#readme"
+}
